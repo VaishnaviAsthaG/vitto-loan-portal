@@ -4,9 +4,9 @@ A Full Stack Loan Application Portal built as part of the Vitto Full Stack Engin
 
 ## Live Demo
 
-Frontend: [Add Frontend URL Here]
+Frontend: [[Frontend](https://vitto-loan-portal-lilac.vercel.app/)]
 
-Backend API: [Add Backend URL Here]
+Backend API: [[Backend](https://vitto-loan-portal-b66u.onrender.com)]
 
 ---
 
@@ -132,7 +132,7 @@ vitto-loan-portal
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/VaishnaviAsthaG/vitto-loan-portal.git
 cd vitto-loan-portal
 ```
 
